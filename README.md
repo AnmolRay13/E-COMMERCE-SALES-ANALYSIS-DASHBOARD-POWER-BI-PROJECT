@@ -105,7 +105,7 @@ To analyze e-commerce sales performance and generate business insights using dat
 
 ## Author
 
-**Anmol Roy**
+**Anmol Ray**
 
 ---
 
